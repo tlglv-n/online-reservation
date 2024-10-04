@@ -1,0 +1,2 @@
+{"level":"error","timestamp":"2024-10-03T11:44:26.772+0500","caller":"app/app.go:25","msg":"ERR_INIT_CONFIGS","error":"required key APP_MODE missing value","stacktrace":"reservation-system/internal/app.Run\n\t/Users/zande/GolandProjects/reservation-system/internal/app/app.go:25\nmain.main\n\t/Users/zande/GolandProjects/reservation-system/main.go:6\nruntime.main\n\t/opt/homebrew/opt/go/libexec/src/runtime/proc.go:250"}
+{"level":"info","timestamp":"2024-10-04T10:48:27.204+0500","caller":"app/app.go:66","msg":"http server started on http://localhost:8080/swagger/index.html"}
